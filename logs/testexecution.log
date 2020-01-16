@@ -1,0 +1,7 @@
+2020-01-15 20:15:03,134, 0(ms), [com.platform.project.commons.AppiumDriverManager] - Driver initialization successful.
+2020-01-15 20:15:18,703, 15569(ms), [com.platform.project.commons.AppiumDriverManager] - Driver initialization successful.
+2020-01-15 20:15:18,708, 15574(ms), [com.platform.project.pageObjects.HomePage] - Getting title.
+2020-01-15 20:15:19,841, 16707(ms), [com.platform.project.commons.Commons] - Android UI Demo is visible.
+2020-01-15 20:15:19,913, 16779(ms), [com.platform.project.commons.Commons] - Element text is: Android UI Demo
+2020-01-15 20:15:19,913, 16779(ms), [com.platform.project.commons.Commons] - Incorrect page opened.
+2020-01-15 20:15:19,914, 16780(ms), [com.platform.project.commons.Commons] - 20-01-15_20.15.19_com.platform.project.steps.HomePageSteps_verifyHomePage.png
